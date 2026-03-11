@@ -9,7 +9,7 @@
 
 ## 적용 대상
 
-- Xbox App / WinGDK 버전 기준
+- Windows용 Xbox 버전 기준
 
 ## 설치 방법
 
