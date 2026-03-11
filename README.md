@@ -1,0 +1,50 @@
+# High On Life 2 한글패치
+
+이 저장소는 `High On Life 2`용 한글패치 `~mods` 배포 파일을 담고 있습니다.
+
+현재 포함 파일:
+
+- `~mods/variant2_staging_mountdotdotdot_ko.pak`
+
+## 적용 대상
+
+- Xbox App / WinGDK 버전 기준
+
+## 설치 방법
+
+1. 게임 설치 폴더의 아래 경로로 이동합니다.
+
+```text
+F:\XboxGames\High On Life 2\Content\HighOnLife2\Content\Paks\
+```
+
+2. `Paks` 폴더 안에 `~mods` 폴더가 없으면 새로 만듭니다.
+
+3. 이 저장소의 `~mods/variant2_staging_mountdotdotdot_ko.pak` 파일을 아래 경로에 복사합니다.
+
+```text
+F:\XboxGames\High On Life 2\Content\HighOnLife2\Content\Paks\~mods\
+```
+
+4. 게임을 실행합니다.
+
+5. 게임 내 `Text Language`를 중국어(`zh`)로 설정합니다.
+
+## 중요
+
+- 현재 가장 안정적으로 확인된 방식은 `ko` 언어를 직접 고르는 방식이 아니라 `zh` 슬롯을 사용하는 방식입니다.
+- 따라서 텍스트 언어를 중국어로 바꿔야 한글이 정상적으로 표시됩니다.
+- 음성 언어는 별도로 원하는 값으로 유지해도 됩니다.
+
+## 제거 방법
+
+아래 파일을 삭제하면 원래 상태로 되돌릴 수 있습니다.
+
+```text
+F:\XboxGames\High On Life 2\Content\HighOnLife2\Content\Paks\~mods\variant2_staging_mountdotdotdot_ko.pak
+```
+
+## 참고
+
+- 패치 적용 후에도 일부 영어가 남아 있을 수 있습니다.
+- 설치 경로가 다르면 사용 중인 실제 게임 설치 폴더 기준으로 동일하게 `Paks\~mods` 아래에 넣으면 됩니다.
