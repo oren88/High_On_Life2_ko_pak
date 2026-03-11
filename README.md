@@ -59,6 +59,13 @@ F:\XboxGames\High On Life 2\Content\HighOnLife2\Content\Paks\~mods\
 <게임 설치 경로>\Content\HighOnLife2\Content\Paks\~mods\variant2_staging_mountdotdotdot_ko.pak
 ```
 
+## 면책 및 주의
+
+- 이 패치는 개인 취미용 비공식 패치이며, 사용으로 인해 발생할 수 있는 문제를 보장하거나 책임지지 않습니다.
+- 게임 업데이트, 설치 환경 차이, 언어 설정 차이로 인해 패치가 정상 동작하지 않을 수 있습니다.
+- 다른 `~mods` 패치와 함께 사용할 경우 충돌하거나 일부 텍스트가 덮어써질 수 있습니다.
+- 사용 전 기존 `~mods` 파일이 있다면 별도 백업을 권장합니다.
+
 ## 참고
 
 - 패치 적용 후에도 일부 영어가 남아 있을 수 있습니다.
