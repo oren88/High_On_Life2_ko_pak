@@ -15,12 +15,24 @@
 1. 게임 설치 폴더의 아래 경로로 이동합니다.
 
 ```text
+<게임 설치 경로>\Content\HighOnLife2\Content\Paks\
+```
+
+예시:
+
+```text
 F:\XboxGames\High On Life 2\Content\HighOnLife2\Content\Paks\
 ```
 
 2. `Paks` 폴더 안에 `~mods` 폴더가 없으면 새로 만듭니다.
 
 3. 이 저장소의 `~mods/variant2_staging_mountdotdotdot_ko.pak` 파일을 아래 경로에 복사합니다.
+
+```text
+<게임 설치 경로>\Content\HighOnLife2\Content\Paks\~mods\
+```
+
+예시:
 
 ```text
 F:\XboxGames\High On Life 2\Content\HighOnLife2\Content\Paks\~mods\
@@ -43,10 +55,11 @@ F:\XboxGames\High On Life 2\Content\HighOnLife2\Content\Paks\~mods\
 아래 파일을 삭제하면 원래 상태로 되돌릴 수 있습니다.
 
 ```text
-F:\XboxGames\High On Life 2\Content\HighOnLife2\Content\Paks\~mods\variant2_staging_mountdotdotdot_ko.pak
+<게임 설치 경로>\Content\HighOnLife2\Content\Paks\~mods\variant2_staging_mountdotdotdot_ko.pak
 ```
 
 ## 참고
 
 - 패치 적용 후에도 일부 영어가 남아 있을 수 있습니다.
-- 설치 경로가 다르면 사용 중인 실제 게임 설치 폴더 기준으로 동일하게 `Paks\~mods` 아래에 넣으면 됩니다.
+- Xbox App 설치 드라이브나 라이브러리 위치는 사용자마다 다를 수 있습니다.
+- 사용 중인 실제 게임 설치 폴더 기준으로 동일하게 `Content\HighOnLife2\Content\Paks\~mods` 아래에 넣으면 됩니다.
