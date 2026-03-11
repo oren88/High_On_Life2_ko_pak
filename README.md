@@ -61,5 +61,6 @@ F:\XboxGames\High On Life 2\Content\HighOnLife2\Content\Paks\~mods\
 ## 참고
 
 - 패치 적용 후에도 일부 영어가 남아 있을 수 있습니다.
+- 퀘스트 창처럼 이미지 에셋에 직접 포함된 텍스트는 한글로 바뀌지 않아 영어가 남아 있을 수 있습니다.
 - Xbox App 설치 드라이브나 라이브러리 위치는 사용자마다 다를 수 있습니다.
 - 사용 중인 실제 게임 설치 폴더 기준으로 동일하게 `Content\HighOnLife2\Content\Paks\~mods` 아래에 넣으면 됩니다.
