@@ -68,6 +68,17 @@ F:\XboxGames\High On Life 2\Content\HighOnLife2\Content\Paks\~mods\
 - 다른 `~mods` 패치와 함께 사용할 경우 충돌하거나 일부 텍스트가 덮어써질 수 있습니다.
 - 사용 전 기존 `~mods` 파일이 있다면 별도 백업을 권장합니다.
 
+## 스크린샷
+
+![스크린샷 1](images/1.png)
+![스크린샷 2](images/2.png)
+![스크린샷 3](images/3.png)
+![스크린샷 4](images/4.png)
+![스크린샷 5](images/5.png)
+![스크린샷 6](images/6.png)
+![스크린샷 7](images/7.png)
+![스크린샷 8](images/8.png)
+
 ## 참고
 
 - 패치 적용 후에도 일부 영어가 남아 있을 수 있습니다.
